@@ -1,0 +1,7 @@
+6 4
+abcd
+acad
+baba
+acab
+cbcc
+acca
